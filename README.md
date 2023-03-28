@@ -35,7 +35,7 @@ El proyecto estará subido en un repositorio público de GitHub.
 Para instalar el frontend del proyecto primero deberas clonar el siguiente repositorio, con el comando git clone:
 
 ``` 
-git clone
+git clone https://github.com/alvaroo243/frontend_gana
 ```
 
 Una vez esten clonados los dos, deberas de instalar lo necesario para inicializar el proyecto:
