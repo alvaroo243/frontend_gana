@@ -1,8 +1,8 @@
-# <center>Prueba técnica Gana Energía (FRONTEND)</center>
+# <center>:bulb: Prueba técnica Gana Energía (FRONTEND) :bulb:</center>
 
 La parte del backend esta en el siguiente [repositorio]().
 
-## Índice
+## :round_pushpin: Índice
 
 - [El proyecto](#el-proyecto)
 
@@ -18,7 +18,7 @@ La parte del backend esta en el siguiente [repositorio]().
 
 ---
 
-# El proyecto
+# :battery: El proyecto :battery:
 
 Vistas previas del proyecto:
 
@@ -28,9 +28,9 @@ Vistas previas del proyecto:
 
 ![foto](./src/assets/editarContrato.png)
 
----
 
-## Instalacion y despliegue
+
+## :bangbang: Instalacion y despliegue
 
 El proyecto estará subido en un repositorio público de GitHub.
 
@@ -55,9 +55,7 @@ npm start
 Al iniciar el frontend se abrirá una ventana nueva en el navegador predeterminado del equipo.
 Cabe añadir que para que funcione todo bien hay que iniciar primero el backend para que se inicie en el puerto 3000, ya que los repositorios estan programados para trabajar en local.
 
----
-
-## Tecnologías y packages utilizados
+## :computer: Tecnologías y packages utilizados
 
 - JavaScript
 - [React](https://es.reactjs.org/)
@@ -67,9 +65,7 @@ Cabe añadir que para que funcione todo bien hay que iniciar primero el backend 
 - [Axios](https://axios-http.com/)
 - [Postman](https://www.postman.com/)
 
----
-
-## Objetivos
+## :dart: Objetivos
 
 Los objetivos del frontend eran:
 
@@ -81,7 +77,7 @@ Los objetivos del frontend eran:
 
 ---
 
-# Conclusión
+# :scroll: Conclusión
 
 Mi frontend al final ha quedado mejor de lo que esperaba, ya que comencé practicamente sin tener ninguna idea de React, y al final he podido trabajar con ello y prácticamente finalizar la prueba. 
 
