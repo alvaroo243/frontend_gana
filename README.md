@@ -89,6 +89,6 @@ He de decir también que agradezco haber participado en el frontend esta prueba,
 
 ---
 
-# Autor
+#  :bust_in_silhouette: Autor
 
 - [Álvaro Gómez Mollá](https://github.com/alvaroo243)
