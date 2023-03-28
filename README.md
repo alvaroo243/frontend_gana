@@ -1,6 +1,6 @@
 # <center>:bulb: Prueba técnica Gana Energía (FRONTEND) :bulb:</center>
 
-La parte del backend esta en el siguiente [repositorio]().
+La parte del backend esta en el siguiente [repositorio](https://github.com/alvaroo243/backend_gana).
 
 ## :round_pushpin: Índice
 
@@ -27,8 +27,6 @@ Vistas previas del proyecto:
 ![foto](./src/assets/nuevoContrato.png)
 
 ![foto](./src/assets/editarContrato.png)
-
-
 
 ## :bangbang: Instalacion y despliegue
 
